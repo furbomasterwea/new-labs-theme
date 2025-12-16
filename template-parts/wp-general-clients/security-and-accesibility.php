@@ -17,12 +17,12 @@
       </div>
     </div>
     
-    <div class="grid grid-cols-1 items-start gap-6 md:gap-8 lg:grid-cols-2">
+    <div class="grid grid-cols-1 items-start gap-6 md:gap-8 lg:grid-cols-2 ">
       <div
         data-slot="card"
         class="overflow-hidden rounded-2xl border border-scheme-border bg-scheme-foreground text-scheme-text grid grid-cols-1 items-start sm:grid-cols-2 h-full"
       >
-        <div class="flex h-full flex-col justify-between p-6">
+        <div class="flex h-full flex-col justify-between p-6 ">
           <p class="text-small mb-2 font-semibold">Tagline</p>
           <h3 class="heading-h5 mb-2 font-bold">
             We take security &amp; accessibility seriously
