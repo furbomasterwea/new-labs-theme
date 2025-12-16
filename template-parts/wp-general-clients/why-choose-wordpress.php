@@ -125,7 +125,7 @@
   </div>
   <div class="absolute inset-0 z-0">
     <img
-      src="<?php echo get_stylesheet_directory_uri(); ?> /images/klara-kulikova-_9vMnA1PPHk-unsplash.jpg"
+      src="<?php echo get_stylesheet_directory_uri(); ?>/images/klara-kulikova-_9vMnA1PPHk-unsplash.jpg"
       class="size-full object-cover"
       alt="Relume Placeholder image"
     />

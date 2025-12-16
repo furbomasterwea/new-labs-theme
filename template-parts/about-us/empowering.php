@@ -20,7 +20,7 @@
     >
       <div class="order-2 md:order-1">
         <img
-          src="<?= get_stylesheet_directory_uri(); ?> /images/Promote-product.png"
+          src="<?= get_stylesheet_directory_uri(); ?>/images/Promote-product.png"
           class="w-full object-cover"
           alt="Relume placeholder image"
         />

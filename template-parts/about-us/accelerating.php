@@ -70,7 +70,7 @@
         class="relative order-last w-full sm:col-span-2 lg:order-none lg:col-span-1"
       >
         <img
-          src="<?= get_stylesheet_directory_uri();?> /images/A-Programmer-Clicks-On-The-Code.png"
+          src="<?= get_stylesheet_directory_uri();?>/images/A-Programmer-Clicks-On-The-Code.png"
           alt="Relume placeholder image"
           class="h-auto w-full object-cover"
         />

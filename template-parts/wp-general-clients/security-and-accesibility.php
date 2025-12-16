@@ -58,7 +58,7 @@
         </div>
         <div class="flex size-full items-center justify-center">
           <img
-            src="<?php echo get_stylesheet_directory_uri();?> /images/wca.png"
+            src="<?php echo get_stylesheet_directory_uri();?>/images/wca.png"
             class="size-full object-cover"
             alt="Relume placeholder image 1"
           />
@@ -103,7 +103,7 @@
         </div>
         <div class="flex size-full items-center justify-center">
           <img
-            src="<?php echo get_stylesheet_directory_uri();?> /images/opts.png"
+            src="<?php echo get_stylesheet_directory_uri();?>/images/opts.png"
             class="size-full object-cover"
             alt="Relume placeholder image 1"
           />
