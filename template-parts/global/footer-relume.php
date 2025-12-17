@@ -34,23 +34,6 @@
                                         loading="lazy"
                                         src="<?php echo get_stylesheet_directory_uri(); ?>/images/logo-wide.svg" alt=""
                                         class="footer12_logo" /></a>
-                                <div class="footer12_image-list">
-                                    <div class="footer12_image-item"><img loading="lazy"
-                                            src="<?php echo get_stylesheet_directory_uri(); ?>/images/placeholder-20small-20image.svg"
-                                            alt="" class="footer12_image" /></div>
-                                    <div class="footer12_image-item"><img loading="lazy"
-                                            src="<?php echo get_stylesheet_directory_uri(); ?>/images/placeholder-20small-20image.svg"
-                                            alt="" class="footer12_image" /></div>
-                                    <div class="footer12_image-item"><img loading="lazy"
-                                            src="<?php echo get_stylesheet_directory_uri(); ?>/images/placeholder-20small-20image.svg"
-                                            alt="" class="footer12_image" /></div>
-                                    <div class="footer12_image-item"><img loading="lazy"
-                                            src="<?php echo get_stylesheet_directory_uri(); ?>/images/placeholder-20small-20image.svg"
-                                            alt="" class="footer12_image" /></div>
-                                    <div class="footer12_image-item"><img loading="lazy"
-                                            src="<?php echo get_stylesheet_directory_uri(); ?>/images/placeholder-20small-20image.svg"
-                                            alt="" class="footer12_image" /></div>
-                                </div>
                             </div>
                         </div>
                         <div class="divider-horizontal"></div>
