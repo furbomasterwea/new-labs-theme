@@ -36,7 +36,7 @@
                                         <div class="team4_item">
                                             <div class="team4_image-wrapper">
                                             <img
-                                                src="<?php echo get_stylesheet_directory_uri(); ?>/images/<?php echo esc_attr($member['image']); ?>"
+                                                src="<?php echo get_stylesheet_directory_uri(); ?>/images/team-members<?php echo esc_attr($member['image']); ?>"
                                                 alt="<?php echo esc_attr($member['name']); ?>"
                                                 class="team4_image"
                                             />

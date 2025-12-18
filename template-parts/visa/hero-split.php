@@ -2,7 +2,7 @@
   <div class="bg-aviada-dark-blue w-full max-w-7xl h-auto min-h-[600px] lg:min-h-[85vh] rounded-2xl overflow-hidden grid grid-cols-1 lg:grid-cols-2 border-2 border-white p-4">
     <div class="relative order-last w-full sm:col-span-2 lg:order-none lg:col-span-1 flex items-center">
       <img 
-        src="<?= get_stylesheet_directory_uri();?>/images/A-Programmer-Clicks-On-The-Code.png"
+        src="<?= get_stylesheet_directory_uri();?>/images/placeholder.png"
         alt="Hero image"
         class="h-auto w-full rounded-image object-cover"
       />
