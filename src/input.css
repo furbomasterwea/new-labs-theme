@@ -162,6 +162,14 @@ h6 {
   z-index: 999;
 }
 
+.footer12_logo,.navbar13_logo-link {
+  max-width: 160px;
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+
 
 }
 

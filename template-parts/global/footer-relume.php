@@ -32,7 +32,7 @@
                         <div class="padding-bottom padding-medium">
                             <div class="footer12_middle-wrapper"><a href="#" class="footer12_logo-link w-nav-brand"><img
                                         loading="lazy"
-                                        src="<?php echo get_stylesheet_directory_uri(); ?>/images/logo-wide.svg" alt=""
+                                        src="<?php echo get_stylesheet_directory_uri(); ?>/images/logo.svg" alt=""
                                         class="footer12_logo" /></a>
                             </div>
                         </div>
