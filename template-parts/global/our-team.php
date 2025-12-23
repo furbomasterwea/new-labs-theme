@@ -21,14 +21,64 @@
                                        <?php
                                         $team = [
                                         [
-                                            'name'  => 'Juan Pérez',
-                                            'role'  => 'Developer',
-                                            'image' => 'placeholder-image.svg',
+                                            'name'  => 'Raul',
+                                            'role'  => 'Frontend',
+                                            'image' => 'portrait-raul.webp',
                                         ],
                                         [
-                                            'name'  => 'Ana López',
-                                            'role'  => 'Designer',
-                                            'image' => 'placeholder-image.svg',
+                                            'name'  => 'Bree',
+                                            'role'  => 'UX/UI',
+                                            'image' => 'portrait-bree-1.webp',
+                                        ],
+                                        [
+                                            'name'  => 'Pancho',
+                                            'role'  => 'Backend',
+                                            'image' => 'portrait-francisco.webp',
+                                        ],
+                                        [
+                                            'name'  => 'Oscar',
+                                            'role'  => 'Frontend',
+                                            'image' => 'portrait-oscar.webp',
+                                        ],
+                                        [
+                                            'name'  => 'Esmeralda',
+                                            'role'  => 'QA',
+                                            'image' => 'portrait-esme.webp',
+                                        ],
+                                        [
+                                            'name'  => 'Julio',
+                                            'role'  => 'Accesibility',
+                                            'image' => 'portrait-julio.webp',
+                                        ],
+                                        [
+                                            'name'  => 'Luis',
+                                            'role'  => 'Frontend',
+                                            'image' => 'portrait-luis.webp',
+                                        ],
+                                        [
+                                            'name'  => 'Sofia',
+                                            'role'  => 'Frontend',
+                                            'image' => 'portrait-sofia.webp',
+                                        ],
+                                        [
+                                            'name'  => 'Andrea',
+                                            'role'  => 'Backend',
+                                            'image' => 'portrait-andrea.webp',
+                                        ],
+                                        [
+                                            'name'  => 'Paul',
+                                            'role'  => 'Content, QA',
+                                            'image' => 'portrait-paul.webp',
+                                        ],
+                                        [
+                                            'name'  => 'Rob',
+                                            'role'  => 'PM, Backend',
+                                            'image' => 'portrait-rob.webp',
+                                        ],
+                                        [
+                                            'name'  => 'Alex',
+                                            'role'  => 'Design',
+                                            'image' => 'portrait-mondra.webp',
                                         ],
                                         ];
 
@@ -36,9 +86,9 @@
                                         <div class="team4_item">
                                             <div class="team4_image-wrapper">
                                             <img
-                                                src="<?php echo get_stylesheet_directory_uri(); ?>/images/team-members<?php echo esc_attr($member['image']); ?>"
+                                                src="<?php echo get_stylesheet_directory_uri(); ?>/images/team-members/<?php echo esc_attr($member['image']); ?>"
                                                 alt="<?php echo esc_attr($member['name']); ?>"
-                                                class="team4_image"
+                                                class="team4_image object-cover object-top"
                                             />
                                             </div>
 
