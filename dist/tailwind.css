@@ -1116,6 +1116,10 @@ p {
   width: 1px;
 }
 
+.w-\[120\%\] {
+  width: 120%;
+}
+
 .min-w-0 {
   min-width: 0px;
 }

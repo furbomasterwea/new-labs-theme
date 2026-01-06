@@ -60,8 +60,8 @@
     </div>
     <div class="relative w-full sm:col-span-2 lg:order-last lg:col-span-1 flex items-center">
       <img 
-        src="<?= get_stylesheet_directory_uri();?>/images/placeholder.png"
-        alt="Hero image"
+        src="<?= get_stylesheet_directory_uri();?>/images/icons-04-rocket.png"
+        alt="Hero rocket image"
         class="h-auto w-full rounded-image object-cover"
       />
     </div>
