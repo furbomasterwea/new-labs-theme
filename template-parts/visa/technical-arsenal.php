@@ -58,7 +58,7 @@
         class="relative order-last w-full sm:col-span-2 lg:order-none lg:col-span-1"
       >
         <img
-          src="<?= get_stylesheet_directory_uri();?>/images/placeholder.png"
+          src="<?= get_stylesheet_directory_uri();?>/images/A Programmer Working Hard-2.png"
           alt="Relume placeholder image"
           class="h-auto w-full rounded-image object-cover"
         />

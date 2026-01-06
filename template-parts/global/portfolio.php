@@ -31,7 +31,7 @@
                                                     <div class="portfolio13_image-wrapper"><img
                                                             sizes="(max-width: 1024px) 100vw, 1024px"
                                                             src="<?php echo get_stylesheet_directory_uri(); ?>/images/work-spin-1-1024x546.webp"
-                                                            alt=""
+                                                            alt="work spin image"
                                                             loading="eager" class="portfolio13_image" /></div>
                                                     <div class="portfolio13_title-wrapper bg-aviada-light-blue">
                                                         <div class="portfolio13_item-content-top">
@@ -75,7 +75,7 @@
                                                     <div class="portfolio13_image-wrapper"><img
                                                             sizes="(max-width: 1024px) 100vw, 1024px"
                                                             src="<?php echo get_stylesheet_directory_uri(); ?>/images/work-shure-1024x549.webp"
-                                                            alt=""
+                                                            alt="shure image"
                                                             loading="eager" class="portfolio13_image" /></div>
                                                     <div class="portfolio13_title-wrapper bg-aviada-light-blue">
                                                         <div class="portfolio13_item-content-top">
@@ -119,7 +119,7 @@
                                                     <div class="portfolio13_image-wrapper"><img
                                                             sizes="(max-width: 1522px) 100vw, 1522px"
                                                             srcset="<?php echo get_stylesheet_directory_uri(); ?>/images/work-casting-network.webp"
-                                                            alt=""
+                                                            alt="casting networks image"
                                                             loading="eager" class="portfolio13_image" /></div>
                                                     <div class="portfolio13_title-wrapper bg-aviada-light-blue">
                                                         <div class="portfolio13_item-content-top">

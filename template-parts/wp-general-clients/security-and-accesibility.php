@@ -60,7 +60,7 @@
           <img
             src="<?php echo get_stylesheet_directory_uri();?>/images/wca.png"
             class="size-full object-cover"
-            alt="Relume placeholder image 1"
+            alt="Text on screen"
           />
         </div>
       </div>
@@ -105,7 +105,7 @@
           <img
             src="<?php echo get_stylesheet_directory_uri();?>/images/opts.png"
             class="size-full object-cover"
-            alt="Relume placeholder image 1"
+            alt="Rocket illustration on screen"
           />
         </div>
       </div>

@@ -1,7 +1,7 @@
 <div data-collapse="medium" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease"
             role="banner" class="navbar13_component delete-this-class color-scheme-6 w-nav">
             <div class="navbar13_container"><a href="#" class="navbar13_logo-link w-nav-brand"><img loading="lazy"
-                        src="<?php echo get_stylesheet_directory_uri(); ?>/images//logo.svg" alt=""
+                        src="<?php echo get_stylesheet_directory_uri(); ?>/images//logo.svg" alt="aviada labs logo"
                         class="navbar13_logo" /></a>
                 <nav role="navigation" id="w-node-_3ee2e3f4-6de6-3f98-649f-170233fb81b8-33fb8190"
                     class="navbar13_menu w-nav-menu">
