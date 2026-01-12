@@ -52,7 +52,5 @@ get_header();
 
 <?php get_template_part('template-parts/global/client-stories' ); ?>
 
-<?php get_template_part('template-parts/global/footer-relume' ); ?>
-
 <?php get_footer(); ?>
 

@@ -1116,10 +1116,6 @@ p {
   width: 1px;
 }
 
-.w-\[120\%\] {
-  width: 120%;
-}
-
 .min-w-0 {
   min-width: 0px;
 }
@@ -1542,6 +1538,10 @@ p {
 
 .pt-6 {
   padding-top: 1.5rem;
+}
+
+.text-left {
+  text-align: left;
 }
 
 .text-center {

@@ -49,7 +49,5 @@ get_header();
 
 </main>
 
-<?php get_template_part('template-parts/global/footer-relume' ); ?>
-
 
 <?php get_footer(); ?>

@@ -29,6 +29,9 @@ $ngrok_url = 'https://fae6f2060cd0.ngrok-free.app';
   <a href="<?php echo home_url('/wordpress-for-general-clients'); ?>">WordPress for Clients</a>
 </div>
 
+<div style="margin-bottom: 10px;">
+  <a href="<?php echo home_url('/services'); ?>">Services</a>
+</div>
 
 
 <?php get_footer(); ?>

@@ -28,7 +28,7 @@ get_header();
 
 <?php get_template_part('template-parts/global/used-by'); ?>
 
-<?php get_template_part('template-parts/wp-for-agencies/hero-split') ?>  
+<?php get_template_part('template-parts/wp-for-agencies/hero-split-list') ?>  
 
 <?php get_template_part('template-parts/global/client-stories'); ?>
 
@@ -47,7 +47,5 @@ get_header();
   ]
   ]
 ]); ?>
-
-<?php get_template_part('template-parts/global/footer-relume'); ?>
 
 <?php get_footer(); ?>
