@@ -25,11 +25,7 @@ get_header();
    ]
   ] ); ?>
 
-<section>
-    <h1>
-        Section 2
-    </h1>
-</section>
+<?php get_template_part("/template-parts/services/fractional-teams"); ?>
 
 <?php get_template_part("/template-parts/global/hero-split-image-right",null, [
   'tagline' => 'Teams',

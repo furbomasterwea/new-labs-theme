@@ -5,8 +5,6 @@ get_header();
 $ngrok_url = 'https://fae6f2060cd0.ngrok-free.app';
 ?>
 
-
-
 <div>Directory<div>
 
 <div style="margin-bottom: 10px;">
