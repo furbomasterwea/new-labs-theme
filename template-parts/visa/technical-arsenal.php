@@ -1,12 +1,4 @@
-<link
-  rel="preload"
-  as="image"
-  href="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg"
-/><link
-  rel="preload"
-  as="image"
-  href="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
-/>
+
 <section class="px-[5%] py-16 md:py-24 lg:py-28">
   <div class="container">
     <div class="mb-12 md:mb-18 lg:mb-20">
@@ -28,9 +20,8 @@
         <div class="flex flex-col items-center text-center">
           <div class="mb-5 md:mb-6">
             <img
-              src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg"
+              src="<?= get_template_directory_uri();?> /images/icons/foundation.svg"
               class="size-12"
-              alt="Relume logo"
             />
           </div>
           <h3 class="heading-h5 mb-3 font-bold md:mb-4">Web foundations</h3>
@@ -42,9 +33,8 @@
         <div class="flex flex-col items-center text-center">
           <div class="mb-5 md:mb-6">
             <img
-              src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg"
+              src="<?= get_template_directory_uri();?> /images/icons/search_insights.svg"
               class="size-12"
-              alt="Relume logo"
             />
           </div>
           <h3 class="heading-h5 mb-3 font-bold md:mb-4">Data intelligence</h3>
@@ -67,7 +57,7 @@
         <div class="flex flex-col items-center text-center">
           <div class="mb-5 md:mb-6">
             <img
-              src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg"
+              src="<?= get_template_directory_uri();?> /images/icons/cloud.svg"
               class="size-12"
               alt="Relume logo"
             />
@@ -83,7 +73,7 @@
         <div class="flex flex-col items-center text-center">
           <div class="mb-5 md:mb-6">
             <img
-              src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg"
+              src="<?= get_template_directory_uri();?> /images/icons/high_quality.svg"
               class="size-12"
               alt="Relume logo"
             />

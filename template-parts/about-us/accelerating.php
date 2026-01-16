@@ -1,12 +1,4 @@
-<link
-  rel="preload"
-  as="image"
-  href="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg"
-/><link
-  rel="preload"
-  as="image"
-  href="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
-/>
+
 <section id="relume" class="px-[5%] py-16 md:py-24 lg:py-28 bg-dark-gray text-white">
   <div class="container">
     <div class="mb-12 md:mb-18 lg:mb-20">
@@ -34,9 +26,8 @@
         <div class="flex flex-col items-center text-center">
           <div class="mb-5 md:mb-6">
             <img
-              src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg"
+              src="<?= get_stylesheet_directory_uri();?>/images/icons/table_eye.svg"
               class="size-12"
-              alt="Relume logo"
             />
           </div>
           <h3 class="heading-style-h3">
@@ -51,9 +42,8 @@
          <div class="flex flex-col items-center text-center">
           <div class="mb-5 md:mb-6">
             <img
-              src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg"
+              src="<?= get_stylesheet_directory_uri();?>/images/icons/architecture.svg"
               class="size-12"
-              alt="Relume logo"
             />
           </div>
           <h3 class="heading-style-h3">
@@ -82,7 +72,7 @@
         <div class="flex flex-col items-center text-center">
           <div class="mb-5 md:mb-6">
             <img
-              src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg"
+              src="<?= get_stylesheet_directory_uri();?>/images/icons/integration_instructions.svg"
               class="size-12"
               alt="Relume logo"
             />
@@ -99,9 +89,8 @@
         <div class="flex flex-col items-center text-center">
           <div class="mb-5 md:mb-6">
             <img
-              src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg"
+              src="<?= get_stylesheet_directory_uri();?>/images/icons/adaptative_audio_mic.svg"
               class="size-12"
-              alt="Relume logo"
             />
           </div>
           <h3 class="heading-style-h3">

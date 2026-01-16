@@ -902,16 +902,6 @@ p {
   margin-right: auto;
 }
 
-.my-8 {
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-}
-
-.my-16 {
-  margin-top: 4rem;
-  margin-bottom: 4rem;
-}
-
 .-mt-4 {
   margin-top: -1rem;
 }
@@ -948,6 +938,10 @@ p {
   margin-left: 0px;
 }
 
+.mt-10 {
+  margin-top: 2.5rem;
+}
+
 .mt-12 {
   margin-top: 3rem;
 }
@@ -966,10 +960,6 @@ p {
 
 .mt-\[30px\] {
   margin-top: 30px;
-}
-
-.mt-10 {
-  margin-top: 2.5rem;
 }
 
 .inline-block {
@@ -1041,30 +1031,6 @@ p {
   height: 100%;
 }
 
-.max-h-\[85vh\] {
-  max-height: 85vh;
-}
-
-.max-h-\[400px\] {
-  max-height: 400px;
-}
-
-.max-h-\[600px\] {
-  max-height: 600px;
-}
-
-.max-h-\[700px\] {
-  max-height: 700px;
-}
-
-.max-h-\[900px\] {
-  max-height: 900px;
-}
-
-.max-h-\[750px\] {
-  max-height: 750px;
-}
-
 .min-h-12 {
   min-height: 3rem;
 }
@@ -1077,32 +1043,16 @@ p {
   min-height: 600px;
 }
 
-.min-h-screen {
-  min-height: 100vh;
+.min-h-\[750px\] {
+  min-height: 750px;
 }
 
 .min-h-\[85vh\] {
   min-height: 85vh;
 }
 
-.min-h-\[400px\] {
-  min-height: 400px;
-}
-
-.min-h-\[500px\] {
-  min-height: 500px;
-}
-
-.min-h-\[700px\] {
-  min-height: 700px;
-}
-
-.min-h-\[900px\] {
-  min-height: 900px;
-}
-
-.min-h-\[750px\] {
-  min-height: 750px;
+.min-h-screen {
+  min-height: 100vh;
 }
 
 .w-0\.5 {
@@ -1123,11 +1073,6 @@ p {
 
 .w-px {
   width: 1px;
-}
-
-.w-fit {
-  width: -moz-fit-content;
-  width: fit-content;
 }
 
 .min-w-0 {
@@ -1296,18 +1241,8 @@ p {
   row-gap: 2rem;
 }
 
-.space-y-2 > :not([hidden]) ~ :not([hidden]) {
-  --tw-space-y-reverse: 0;
-  margin-top: calc(0.5rem * calc(1 - var(--tw-space-y-reverse)));
-  margin-bottom: calc(0.5rem * var(--tw-space-y-reverse));
-}
-
 .self-stretch {
   align-self: stretch;
-}
-
-.overflow-auto {
-  overflow: auto;
 }
 
 .overflow-hidden {
@@ -1779,36 +1714,12 @@ p {
     height: 3.5rem;
   }
 
-  .lg\:max-h-\[600px\] {
-    max-height: 600px;
-  }
-
-  .lg\:max-h-\[100px\] {
-    max-height: 100px;
-  }
-
-  .lg\:min-h-\[85vh\] {
-    min-height: 85vh;
-  }
-
   .lg\:min-h-\[65vh\] {
     min-height: 65vh;
   }
 
-  .lg\:min-h-\[25vh\] {
-    min-height: 25vh;
-  }
-
-  .lg\:min-h-\[60vh\] {
-    min-height: 60vh;
-  }
-
-  .lg\:min-h-\[70vh\] {
-    min-height: 70vh;
-  }
-
-  .lg\:min-h-\[80vh\] {
-    min-height: 80vh;
+  .lg\:min-h-\[85vh\] {
+    min-height: 85vh;
   }
 
   .lg\:basis-1\/2 {

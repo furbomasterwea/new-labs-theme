@@ -7,7 +7,7 @@ get_header();
 <?php get_template_part("/template-parts/global/navbar"); ?>
 
 <?php get_template_part("/template-parts/hero", null, [
-  'image'=> get_stylesheet_directory_uri() .  '',
+  'image'=> get_stylesheet_directory_uri() .  '/images/vitaly-gariev-LzBMjkvZfh8-unsplash.jpg',
   'heading'=>'We do the work that matters',
   'paragraph'=>'Aviada Labs brings skilled teams, search visibility, and connected systemsto businesses
   that need them. We move fast, stay focused, and build things that endure.',

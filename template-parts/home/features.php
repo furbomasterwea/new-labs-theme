@@ -25,7 +25,7 @@
                                         <div class="w-layout-grid layout220_item-list text-white">
                                             <div class="layout220_item">
                                                 <div class="margin-bottom margin-xsmall">
-                                                    
+                                                <img src="<?= get_stylesheet_directory_uri(); ?>/images/icons/table_eye.svg">
                                                 </div>
                                                 <div class="margin-bottom margin-xsmall">
                                                     <h3 class="heading-style-h5">ADA Compliance &amp; Accessibility</h3>
@@ -35,7 +35,7 @@
                                             </div>
                                             <div class="layout220_item">
                                                 <div class="margin-bottom margin-xsmall">
-                                                    
+                                                    <img src="<?= get_stylesheet_directory_uri(); ?>/images/icons/search_insights_1.svg">
                                                 </div>
                                                 <div class="margin-bottom margin-xsmall">
                                                     <h3 class="heading-style-h5">SEO &amp; Speed Optimization</h3>
@@ -45,7 +45,7 @@
                                             </div>
                                             <div class="layout220_item">
                                                 <div class="margin-bottom margin-xsmall">
-                                                    
+                                                    <img src="<?= get_stylesheet_directory_uri(); ?>/images/icons/plug_connect.svg">
                                                 </div>
                                                 <div class="margin-bottom margin-xsmall">
                                                     <h3 class="heading-style-h5">Platform Integrations That Work</h3>
@@ -55,7 +55,7 @@
                                             </div>
                                             <div class="layout220_item">
                                                 <div class="margin-bottom margin-xsmall">
-                                                    
+                                                    <img src="<?= get_stylesheet_directory_uri(); ?>/images/icons/picture_as_pdf.svg">
                                                 </div>
                                                 <div class="margin-bottom margin-xsmall">
                                                     <h3 class="heading-style-h5">Custom Forms with PDF Output</h3>

@@ -10,8 +10,9 @@
 
     <div class="flex flex-col justify-center p-8 md:p-12 lg:p-16 bg-aviada-dark-blue text-white">
       <div class="flex items-start gap-4 mb-6">
-        <div class="w-14 h-14 rounded-xl bg-gray-100 flex items-center justify-center flex-shrink-0">
-          <img src="AQUI-TU-ICONO.svg" alt="Icon" class="w-7 h-7" />
+        <div class="w-14 h-14 rounded-xl flex items-center justify-center flex-shrink-0">
+          <img src="<?= get_stylesheet_directory_uri();?>/images/icons/health_metrics.svg"
+          alt="Icon" class="w-7 h-7" />
         </div>
         <div>
           <h3>Business impact metrics</h3>
@@ -20,8 +21,9 @@
       </div>
 
       <div class="flex items-start gap-4 mb-6">
-        <div class="w-14 h-14 rounded-xl bg-gray-100 flex items-center justify-center flex-shrink-0">
-          <img src="AQUI-TU-ICONO.svg" alt="Icon" class="w-7 h-7" />
+          <div class="w-14 h-14 rounded-xl flex items-center justify-center flex-shrink-0">
+          <img src="<?= get_stylesheet_directory_uri();?>/images/icons/call_missed.svg"
+          alt="Icon" class="w-7 h-7" />
         </div>
         <div>
           <h3>Revenue disruption</h3>
@@ -30,8 +32,9 @@
       </div>
       
       <div class="flex items-start gap-4 mb-8">
-        <div class="w-14 h-14 rounded-xl bg-gray-100 flex items-center justify-center flex-shrink-0">
-          <img src="AQUI-TU-ICONO.svg" alt="Icon" class="w-7 h-7" />
+          <div class="w-14 h-14 rounded-xl flex items-center justify-center flex-shrink-0">
+          <img src="<?= get_stylesheet_directory_uri();?>/images/icons/productivity.svg"
+          alt="Icon" class="w-7 h-7" />
         </div>
         <div>
           <h3>Operational strain</h3>

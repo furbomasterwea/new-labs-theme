@@ -1,8 +1,4 @@
-<link
-  rel="preload"
-  as="image"
-  href="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg"
-/>
+
 <section class="px-[5%] py-16 md:py-24 lg:py-28 bg-aviada-light-blue">
   <div class="container">
     <div
@@ -52,9 +48,9 @@
         </div>
         <div class="grid grid-cols-[max-content_1fr] gap-x-6 lg:gap-x-10">
           <div class="relative flex flex-col items-center justify-start py-10">
-            <div class="relative z-10 -mt-4 bg-white px-2 py-4 md:px-4">
+            <div class="relative z-10 -mt-4 px-2 py-4 md:px-4">
               <img
-                src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg"
+               src="<?= get_template_directory_uri();?> /images/icons/view_kanban.svg"
                 alt="Relume icon 1"
                 class="size-12"
               />
@@ -70,9 +66,9 @@
         </div>
         <div class="grid grid-cols-[max-content_1fr] gap-x-6 lg:gap-x-10">
           <div class="relative flex flex-col items-center justify-start py-10">
-            <div class="relative z-10 -mt-4 bg-white px-2 py-4 md:px-4">
+            <div class="relative z-10 -mt-4 px-2 py-4 md:px-4">
               <img
-                src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg"
+                src="<?= get_template_directory_uri();?> /images/icons/cycle.svg"
                 alt="Relume icon 1"
                 class="size-12"
               />
@@ -90,9 +86,9 @@
         </div>
         <div class="grid grid-cols-[max-content_1fr] gap-x-6 lg:gap-x-10">
           <div class="relative flex flex-col items-center justify-start py-10">
-            <div class="relative z-10 -mt-4 bg-white px-2 py-4 md:px-4">
+            <div class="relative z-10 -mt-4 px-2 py-4 md:px-4">
               <img
-                src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg"
+                src="<?= get_template_directory_uri();?> /images/icons/modeling.svg"
                 alt="Relume icon 1"
                 class="size-12"
               />
@@ -110,9 +106,9 @@
         </div>
         <div class="grid grid-cols-[max-content_1fr] gap-x-6 lg:gap-x-10">
           <div class="relative flex flex-col items-center justify-start py-10">
-            <div class="relative z-10 -mt-4 bg-white px-2 py-4 md:px-4">
+            <div class="relative z-10 -mt-4 px-2 py-4 md:px-4">
               <img
-                src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg"
+                src="<?= get_template_directory_uri();?> /images/icons/checklist_rtl.svg"
                 alt="Relume icon 1"
                 class="size-12"
               />

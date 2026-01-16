@@ -1,12 +1,3 @@
-<link
-  rel="preload"
-  as="image"
-  href="https://d22po4pjz3o32e.cloudfront.net/relume-icon-white.svg"
-/><link
-  rel="preload"
-  as="image"
-  href="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
-/>
 <section class="relative px-[5%] py-16 md:py-24 lg:py-28">
   <div class="relative z-10 container">
     <div

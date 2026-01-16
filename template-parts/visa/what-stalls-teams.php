@@ -1,8 +1,4 @@
-<link
-  rel="preload"
-  as="image"
-  href="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg"
-/>
+
 <section class="px-[5%] py-16 md:py-24 lg:py-28 ">
   <div class="container ">
     <div class="flex flex-col">
@@ -18,7 +14,7 @@
         <div class="flex w-full flex-col">
           <div class="mb-5 md:mb-6">
             <img
-              src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg"
+              src="<?= get_stylesheet_directory_uri();?>/images/icons/timeline.svg"
               class="size-12"
               alt="Relume logo"
             />
@@ -31,7 +27,7 @@
         <div class="flex w-full flex-col">
           <div class="mb-5 md:mb-6">
             <img
-              src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg"
+              src="<?= get_stylesheet_directory_uri();?>/images/icons/local_fire_department.svg"
               class="size-12"
               alt="Relume logo"
             />
@@ -43,7 +39,7 @@
         <div class="flex w-full flex-col">
           <div class="mb-5 md:mb-6">
             <img
-              src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg"
+              src="<?= get_stylesheet_directory_uri();?>/images/icons/desktop_cloud_stack.svg"
               class="size-12"
               alt="Relume logo"
             />
