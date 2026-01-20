@@ -25,7 +25,7 @@ get_header();
    ]
   ] ); ?>
 
-<?php get_template_part("/template-parts/services/fractional-teams"); ?>
+<?php get_template_part("/template-parts/services/three-cards"); ?>
 
 <?php get_template_part("/template-parts/global/hero-split-image-right",null, [
   'tagline' => 'Teams',
